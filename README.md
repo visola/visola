@@ -4,7 +4,7 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2731402?color=orange&logo=stackoverflow&label=Vinicius+Isola)](https://stackoverflow.com/users/2731402/visola)
 
 Welcome to my profile!
-I'm currently a technical and operational lead @ [Revollu](https://revollu.com/).
+I'm currently a Senior Software Engineer @ [Klaviyo](https://klaviyo.com) and the technical and operational lead @ [Revollu](https://revollu.com/).
 Previously a SW engineer at [Toast](https://pos.toasttab.com/), [HubSpot](https://www.hubspot.com/) and [IBM](https://www.ibm.com/).
 
 I've co-authored two books:
