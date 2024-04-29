@@ -10,7 +10,7 @@ I've co-authored two books:
 - [Java Fundamentals](https://www.amazon.com/dp/B07JDGYLW2) - A fast-paced and pragmatic introduction to one of the world's most popular programming languages
 - [Professional Javascript](https://www.amazon.com/gp/product/B07RS28BNP0) - Develop your JavaScript programming skills by learning strategies and techniques commonly used in modern full-stack application development
 
-I love learning together and sharing knowledge and I'd love to connect.
+I love learning together and sharing knowledge and I'd love to connect. Please send me an email if you'd like to connect.
 
 <img align="right" src="https://media.giphy.com/media/b0VK26c9Ne0ak/giphy.gif" height="250px"/>
 
