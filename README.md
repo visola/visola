@@ -1,6 +1,5 @@
 ### Hi, I'm Vini 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Isola-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-isola-26b9575/)](https://www.linkedin.com/in/vinicius-isola-26b9575/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2731402?color=orange&logo=stackoverflow&label=Vinicius+Isola)](https://stackoverflow.com/users/2731402/visola)
 
 Welcome to my profile!
